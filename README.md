@@ -1,4 +1,4 @@
-# szmtz.github.io
+# saulzmtz.github.io
 
 [smtz.xyz](https://smtz.xyz)
 
